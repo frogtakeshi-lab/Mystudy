@@ -7,7 +7,8 @@
 ```
 Mystudy/
 ├── README.md          # このファイル
-├── PROGRESS.md        # 学習ロードマップ・進捗チェックリスト
+├── PLAN.md            # 6か月の学習計画・週の時間割
+├── PROGRESS.md        # 目標一覧・進捗チェックリスト
 ├── templates/         # ノートのひな形
 │   ├── note.md        #   学習ノート用
 │   └── exam.md        #   資格・試験の計画用
